@@ -1,3 +1,10 @@
+/* 
+This sampler was based off of Karen Ann Donnachie's typeSamplerTemplate viewable at:
+https://github.com/karenanndonnachie/AtotheK/tree/main/Chapter_5/typeSamplerTemplate
+
+Debugged by Joseph Kneebone- thanks joe you're the best
+*/
+
 var font;
 var viewOutline=false;
 var viewAlphabet=false;
